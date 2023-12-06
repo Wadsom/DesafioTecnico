@@ -1,6 +1,7 @@
 
-Projeto: Calculador dde Somatório de Valores Inteiros.
-Descrição: Esse projeto implementa uma função Dart que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 e 5 que sejam inferiores ao número passado.
+Projeto: Calculador de Somatório de Valores Inteiros
+Descrição
+Este projeto implementa uma função em Dart que recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 ## Instalação e Execução
 -- Para executar o projeto, instale as dependências necessárias e execute o arquivo desafiotecnico.dart.
